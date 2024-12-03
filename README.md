@@ -2,7 +2,7 @@
 - 👀 I’m interested in web &mobile app developement
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @duganesh234@gmail.com
+- 📫 How to reach me @suganesh234@gmail.com
 
 
 <!---
