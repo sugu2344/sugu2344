@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm suganesh</h1>
-<h3 align="center">A passionate frontend and backend</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugu2344" alt="sugu2344" /></a> </p>
 
