@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm suganesh</h1>
-<h3 align="center">passionate to work as a fullstack web devwloper</h3>
+<h3 align="center">passionate to work as a fullstack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugu2344&label=Profile%20views&color=0e75b6&style=flat" alt="sugu2344" /> </p>
 
